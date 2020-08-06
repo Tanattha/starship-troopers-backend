@@ -5,9 +5,8 @@ class Score < ApplicationRecord
     scope :topten, -> { order('num desc').limit(10) }
   
     def self.topten_users_and_scores
-      topten_scores = []
+      
       topten_scores = Score.topten
-
       topten_scores.each_with_index.map do |score,i|
         {
           rank: i+1,

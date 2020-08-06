@@ -6,6 +6,6 @@ Score.delete_all
 
 10.times do
     user = User.create(username: Faker::Name.first_name)
-    user.scores << Score.create(num: rand(1...30))
+    user.scores << Score.create(num: rand(1...10))
 end
   

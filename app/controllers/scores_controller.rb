@@ -7,7 +7,7 @@ class ScoresController < ApplicationController
     def create
       score = Score.create(username: params[:username])
       render json: UserSerializer.new(user)
-
+     
     end
   
     def topten

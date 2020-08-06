@@ -9,6 +9,7 @@ class UsersController < ApplicationController
         user.scores.build(num: params[:num])
         user.save
         render json: UserSerializer.new(user)
+        
     end
    
     def show
