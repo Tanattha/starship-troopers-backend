@@ -5,15 +5,15 @@ class UsersController < ApplicationController
     end
 
     def create
-        user = User.find_or_create_by(username: params[:username])
-        user.scores.build(number: params[:number])
+        user = User.create(username: params[:username])
+        user.scores.build(num: params[:num])
         user.save
         render json: UserSerializer.new(user)
     end
-  
+   
     def show
       user = User.find_by(id: params[:id])
       render json: UserSerializer.new(user)
     end
-  
+
   end

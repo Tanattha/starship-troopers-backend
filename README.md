@@ -1,25 +1,29 @@
-# README
+[Starship-Troopers-Frontend-here](https://github.com/Tanattha/starship-troopers-frontend)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Starship-Troopers-Backend
+You'll be in a role of starship troopers to kill all the enemies. Starship-troopers was built with JavaScript on the frontend and Rails on the backend.
 
-Things you may want to cover:
+<img src="./src/game.png" width="640" height="400" />
 
-* Ruby version
+## Live App
 
-* System dependencies
 
-* Configuration
+## How to play
 
-* Database creation
+<img src="./src/howtoplay.png" width="640" height="400" />
 
-* Database initialization
+## Installation
 
-* How to run the test suite
+```
+clone this repo
+cd starship-troopers-backend
+rails db:create
+rails db:migrate
+rails db:seed #(optional, only if you want users and scores data)
+rails s
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+## License
 
-* Deployment instructions
+The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-* ...
-# starship-troopers-backend
