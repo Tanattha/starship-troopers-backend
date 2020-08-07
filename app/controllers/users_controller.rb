@@ -10,6 +10,7 @@ class UsersController < ApplicationController
         user.save
         render json: UserSerializer.new(user)
         
+        
     end
    
     def show

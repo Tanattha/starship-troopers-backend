@@ -7,7 +7,7 @@ You'll be in a role of starship troopers to kill all the enemies. Starship-troop
 
 ## Live App
 
-https://tanattha.github.io/starship-troopers-frontend/
+[CLICK HERE](https://tanattha.github.io/starship-troopers-frontend)
 
 ## Video Walkthrough
 
@@ -32,7 +32,7 @@ rails s
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-## Speical Thanks
+## Special Thanks
 
 https://www.clipartmax.com/<br />
 https://www.remove.bg/upload<br />
@@ -40,8 +40,4 @@ https://www.zapsplat.com/<br />
 https://www.pexels.com/<br />
 https://favicon.io/<br />
 [Font: Black Ops One Designed by James Grieshaber](https://fonts.google.com/specimen/Black+Ops+One#standard-styles)
-<<<<<<< HEAD
 and everything else from google!
-=======
-and everything else from google!
->>>>>>> e191db0b03755b22876c764ccb16146b2a20bdd9
