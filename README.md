@@ -40,4 +40,10 @@ https://www.zapsplat.com/<br />
 https://www.pexels.com/<br />
 https://favicon.io/<br />
 [Font: Black Ops One Designed by James Grieshaber](https://fonts.google.com/specimen/Black+Ops+One#standard-styles)
+<<<<<<< HEAD
 and everything else from google!
+=======
+
+and everything else from google!
+
+>>>>>>> 65dd6ad3b2c1cdd7f612b2f243dc93636bbdcd0e
