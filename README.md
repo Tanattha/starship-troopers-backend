@@ -1,7 +1,8 @@
 [Starship-Troopers-Frontend-Here](https://github.com/Tanattha/starship-troopers-frontend)
 
 ## Starship-Troopers-Backend
-You'll be in a role of starship troopers to kill all the enemies. Starship-troopers was built with JavaScript on the frontend and Rails on the backend.
+
+Resources, models, controllers and associations included. Fully functional CRUD, MVC and RESTful conventions. It also uses Fetch API to interface for fetching resources across the network. 
 
 <img src="./src/game.png" width="640" height="400" />
 
@@ -40,10 +41,5 @@ https://www.zapsplat.com/<br />
 https://www.pexels.com/<br />
 https://favicon.io/<br />
 [Font: Black Ops One Designed by James Grieshaber](https://fonts.google.com/specimen/Black+Ops+One#standard-styles)
-<<<<<<< HEAD
-and everything else from google!
-=======
-
 and everything else from google!
 
->>>>>>> 65dd6ad3b2c1cdd7f612b2f243dc93636bbdcd0e
